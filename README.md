@@ -10,13 +10,13 @@ The goal is simple:
 
 ##  What I'm learning
 
-* 🧮 Mathematics for Machine Learning
-* 🐍 Python
-* 📊 NumPy & scientific computing
-* 📈 Data visualization
-* 🤖 Machine Learning
-* 🧠 Neural Networks
-* 🔬 Practical experiments and projects
+*  Mathematics for Machine Learning
+*  Python
+*  NumPy & scientific computing
+*  Data visualization
+*  Machine Learning
+*  Neural Networks
+*  Practical experiments and projects
 
 ##  Project structure
 
