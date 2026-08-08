@@ -38,7 +38,7 @@ I'm maintaining a separate structured learning map covering the mathematical con
 
 The map lives in an **Obsidian vault** and is designed to grow as I discover gaps in my knowledge.
 
-→ `math/`
+[Mathematics](./math/README.md)
 
 ##  Experiments
 
@@ -59,8 +59,6 @@ The experiments are part of the learning process.
 This repository is a record of the process, not just the final results.
 
 I'll keep adding notes, experiments, mistakes, explanations and projects as I move forward.
-
-Maybe one day I'll look back at the first commits and see how much I've changed.
 
 ---
 
