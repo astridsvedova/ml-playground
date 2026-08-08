@@ -1,4 +1,4 @@
-# ML Playground 🧠
+# ML Playground 
 
 This is my personal learning project and a public record of my journey into **Machine Learning Engineering**.
 
