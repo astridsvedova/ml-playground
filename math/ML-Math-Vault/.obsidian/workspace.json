@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "c8d44a38136dd284",
+    "type": "split",
+    "children": [
+      {
+        "id": "f9788e5a18685089",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b139d4564563461",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 Algebra/01 Functions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01 Functions"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6d5d1ccb9088bed6",
+    "type": "split",
+    "children": [
+      {
+        "id": "af41eb6aefe55a83",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b862bec102c34f5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "becb757a62d53986",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "baff8625876ff8db",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "92552f96e8bc3a69",
+    "type": "split",
+    "children": [
+      {
+        "id": "49ebbc00de07c38b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "06448068262f6f66",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Без названия 1.base",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки"
+            }
+          },
+          {
+            "id": "9973c120214e1bf4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Без названия 1.base",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки"
+            }
+          },
+          {
+            "id": "1b2ac12448b6cc53",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "9f2e484941f11a85",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
+            }
+          },
+          {
+            "id": "df1a4639db9731bc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Без названия 1.base",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "3b139d4564563461",
+  "lastOpenFiles": [
+    "00 Dashboard/ML Math Map.md",
+    "01 Algebra/01 Functions.md",
+    "Без названия 1.base",
+    "Без названия.base",
+    "99 Templates/Math Topic.md",
+    "README.md",
+    "99 Inbox/Next.md",
+    "99 Inbox/Problems.md",
+    "01 Algebra/04 Logarithms.md",
+    "01 Algebra/03 Exponents.md",
+    "01 Algebra/02 Graphs of Functions.md",
+    "04 Calculus/Calculus.md",
+    "01 Algebra/Algebra.md",
+    "01 Algebra/09 Trigonometry.md",
+    "01 Algebra/08 Inequalities.md",
+    "01 Algebra/07 Systems of Linear Equations.md",
+    "01 Algebra/06 Mathematical Notation.md",
+    "01 Algebra/05 Summation (Σ).md"
+  ]
+}
